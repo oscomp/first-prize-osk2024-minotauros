@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/oscomp/first-prize-osk2024-minotauros)
 # MinotaurOS
 
 ## 项目简介
